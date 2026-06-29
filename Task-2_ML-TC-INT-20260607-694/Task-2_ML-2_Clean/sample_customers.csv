@@ -1,0 +1,3 @@
+Age,Gender,City,Subscription_Type,Monthly_Spending,Tenure_Months,Number_of_Purchases,Support_Requests,Login_Frequency,Last_Activity_Days_Ago,Satisfaction_Score,Payment_Method,Contract_Type,Discount_Used,Referral_Source,Auto_Renew,Device_Type,Internet_Speed,Customer_Lifetime_Value
+41,Male,Nashville,Premium,108.84,8,3,6,0,32,4,Credit Card,Quarterly,No,Email Campaign,No,Desktop,Fast,1130.76
+30,Male,Indianapolis,Basic,16.21,21,23,3,70,43,6,Cash,Quarterly,No,Friend,Yes,Desktop,Slow,355.60
